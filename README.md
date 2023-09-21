@@ -1,5 +1,5 @@
 
-# Anthony Pratt (AI)
+# Anthony Pratt (AP)
 
 Hey there, I'm a Nigerian full time software Engineer and with interests in web/mobile apps, reverse engineering(mobile apps), web/mobile pentesting and Cloud infrastructures.
 
@@ -72,4 +72,4 @@ You can find me on:
 ![El-Caminoo's github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=El-Caminoo&width=820&tooltip=true&active-skills="HTML,%20CSS,%20JSON,%20JavaScript,%20Python,%20SCSS,%20Shell,%20TypeScript,%20Vue,%20Jupyter%20Notebook,%20Dockerfile,%20Batchfile,%20C#,%20Java,Dart")
 
 <!-- https://docs.codersrank.io/widgets/skills-chart-widget/ -->
-<!--![Limistah's CR ranks](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=limistah&show-avatar=false)
+<!--![Limistah's CR ranks](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=limistah&show-avatar=false)-->
