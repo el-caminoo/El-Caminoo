@@ -1,72 +1,53 @@
-
-# Anthony Pratt (AP)
-
-Hey there, I'm a Nigerian full time software Engineer and with interests in web/mobile apps, reverse engineering(mobile apps), web/mobile pentesting and Cloud infrastructures.
-
-You can find me on:
-
-<p>
-  <a href="https://twitter.com/yachampratt"><img src="https://github.com/limistah/limistah/blob/master/assets/twitter.svg" width="24px" alt="Twitter"></a>
-  <a href="https://www.instagram.com/yachampraatt"><img src="https://github.com/limistah/limistah/blob/master/assets/instagram.svg" width="24px" alt="Instagram"></a>
-  <a href="https://dev.to/el_camino"><img src="https://github.com/limistah/limistah/blob/master/assets/dev-dot-to.svg" width="24px" alt="DEV.to"></a>
-  <a href="https://www.linkedin.com/in/yachampratt"><img src="https://github.com/limistah/limistah/blob/master/assets/linkedin.svg" width="24px" alt="Linkedin"></a>
-  <a href="https://hashnode.com/@El-Camino"><img src="https://github.com/limistah/limistah/blob/master/assets/hashnode.svg" width="24px" alt="Hashnode"></a>
-  <a href="https://profile.codersrank.io/user/limistah/"><img src="https://github.com/limistah/limistah/blob/master/assets/codersrank.svg" width="24px" alt="CodersRank"></a>
-  <a href="https://medium.com/@B.Max"><img src="https://github.com/limistah/limistah/blob/master/assets/medium.svg" width="24px" alt="Medium"></a>
-</p>
-
-## A bit more about me
-
-<ul>
-  <li>Fluent in 🇬🇧.</li>
-  <li>
-    👨‍💻 I'm getting my hands dirty with:<br>
-    <img src="https://github.com/limistah/limistah/blob/master/assets/node-dot-js.svg" width="24px" alt="NodeJS">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/python.svg" width="24px" alt="Python">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/aws.svg" width="24px" alt="AWS">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/googlecloud.svg" width="24px" alt="Google Cloud">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/github.svg" width="24px" alt="Github">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/terraform.svg" width="24px" alt="Terraform">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/confluence.svg" width="24px" alt="Confluence">
-  </li>
-  <li>
-    🌱 I'm currently learning:<br>
-    <img src="https://github.com/limistah/limistah/blob/master/assets/linux.svg" width="24px" alt="Linux">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/docker.svg" width="24px" alt="Docker">
-    <img src="https://github.com/limistah/limistah/blob/master/assets/kubernetes.svg" width="24px" alt="K8s">
-  </li>
-  <li>
-    🖊️ I publish at:
-    <img src="https://github.com/limistah/limistah/blob/master/assets/hashnode.svg" width="24px" alt="Hashnode"https://dev.to/el_camino> <a href="https://elcamino.hashnode.dev">📝</a>
-  </li>
-  <li>
-    💬 Ask me about anything, I'd love to help.
-  </li>
-  
-</ul>
-
-### Typical tech stacks
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TS" **alt="TS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" title="Postgres" **alt="Postgres" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" **alt="Linux" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  title="Bash" **alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" title="lua" **alt="lua" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" title="matlab" **alt="matlab" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" **alt="mongodb" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="nginx" **alt="nginx" width="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=30&pause=1000&center=true&width=520&lines=I+am+a+software+engineer;over+5+years+building+web+technology;over+3+years+of+devops+engineering;2+years+of+reverse+engineering;Enjoy+visiting+my+profile" alt="Typing SVG" /></a>
 </div>
 
+## Overview
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=El-Caminoo&theme=github" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=El-Caminoo&theme=github" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=El-Caminoo&theme=github&utcOffset=8" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=El-Caminoo&theme=github" />  
+</div>
 
-## Stats
-![My github stats](https://github-readme-stats.vercel.app/api?username=El-Caminoo&show_icons=true&hide_border=true&theme=tokyonight)
+## Achievements
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=El-Caminoo&column=7" />
+</p>
 
-### Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=El-Caminoo)](https://github.com/anuraghazra/github-readme-stats)
+## Prefered Technicals
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+  
+</p>
 
-![El-Caminoo's github stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=El-Caminoo&width=820&tooltip=true&active-skills="HTML,%20CSS,%20JSON,%20JavaScript,%20Python,%20SCSS,%20Shell,%20TypeScript,%20Vue,%20Jupyter%20Notebook,%20Dockerfile,%20Batchfile,%20C#,%20Java,Dart")
+## Languages & Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,js,ts,css,sass,php,py,react,redux,nextjs,nuxtjs,angular,vue,nodejs,webpack,django,flask,laravel,wordpress,bootstrap,tailwind,jquery,mongodb,mysql,postgres,sqlite,md,nginx,powershell,prisma,vscode,atom,androidstudio,git,github,linux,vercel,aws,rust,solidity,kubernetes,docker,googlecloud,terraform,confluence" />
+  </a>
+</p>
+<br><br>
+
+## Thank you for visiting my profile. You're a gem.
+
+![Visitor Count](https://profile-counter.glitch.me/El-Caminoo/count.svg)
+
+<hr>
+
+## Connect with me.
+
+<p>
+<a href="https://github.com/El-Caminoo"><img src="https://img.shields.io/badge/-El-Caminoo?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/yachampratt/"><img src="https://img.shields.io/badge/-https://www.linkedin.com/in/anthony-pratt-52a81019b/-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://instagram.com/divyasrujana?igshid=esstkghnur2d"><img src="https://img.shields.io/badge/-yachampratt-pink?logo=instagram&style=flat-square"/></a>
+<a href="mailto:yachampratt@gmail.com"><img src="https://img.shields.io/badge/-yachampratt@gmail.com-black?logo=gmail&style=flat-square"/></a>
+<a href="https://twitter.com/yachampratt"><img src="https://img.shields.io/badge/-yachampratt-blue?logo=twitter&style=flat-square"/></a>
+</p>
+
+- 🔭 I’m currently working on some articles about the work i do.
+- 🌱 I’m currently learning C-family languages and solidity.
+- 👯 I’m looking to collaborate on fun projects
+- 🤔 I’m looking for help with you!
+- 📫 How to reach me: yachampratt@gmail.com
+- ⚡ Fun fact: Like most people in my discipline, I am a night owl.
