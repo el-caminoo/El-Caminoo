@@ -38,9 +38,9 @@
 ## Connect with me.
 
 <p>
-<a href="https://github.com/El-Caminoo"><img src="https://img.shields.io/badge/-El-Caminoo?logo=github&style=flat-square"/></a>
+<!-- <a href="https://github.com/El-Caminoo"><img src="https://img.shields.io/badge/-El-Caminoo?logo=github&style=flat-square"/></a> -->
 <!-- <a href="https://www.linkedin.com/in/yachampratt/"><img src="https://img.shields.io/badge/-https://www.linkedin.com/in/anthony-pratt-52a81019b/-blue?logo=linkedin&style=flat-square"></a> -->
-<a href="https://instagram.com/divyasrujana?igshid=esstkghnur2d"><img src="https://img.shields.io/badge/-yachampratt-pink?logo=instagram&style=flat-square"/></a>
+<!-- <a href="https://instagram.com/divyasrujana?igshid=esstkghnur2d"><img src="https://img.shields.io/badge/-yachampratt-pink?logo=instagram&style=flat-square"/></a> -->
 <!-- <a href="mailto:yachampratt@gmail.com"><img src="https://img.shields.io/badge/-yachampratt@gmail.com-black?logo=gmail&style=flat-square"/></a>
 <a href="https://twitter.com/yachampratt"><img src="https://img.shields.io/badge/-yachampratt-blue?logo=twitter&style=flat-square"/></a> -->
 </p>
